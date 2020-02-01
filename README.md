@@ -21,5 +21,7 @@ ____________________________
 
 2. Написать Ansible playbook для конфигурации клиента
 
-Подключиться к серверу и клиенту по ssh:
+[лежит туть](https://github.com/Edo1993/otus_19/tree/master/ldap)
+
+После разворачивания - подключиться к серверу и клиенту по ssh:
 ![Image_alt](https://github.com/Edo1993/otus_19/blob/master/11.png)
